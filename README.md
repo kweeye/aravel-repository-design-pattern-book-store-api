@@ -6,3 +6,7 @@ Laravel Repository Design Pattern.
 - php artisan passport:install
 - php artisan storage:link
 - php artisan serve
+
+you can connect vue backend service by the following repostory
+
+https://github.com/kweeye/vue-book-store-admin-panel
